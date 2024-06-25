@@ -14,7 +14,7 @@
         @csrf
         <div>
             <div>
-                ログインID：<input type="text" name="login_id">
+                ログインID:<input type="text" name="login_id">
             </div>
             <div>
                 パスワード：<input type="password" name="password">
